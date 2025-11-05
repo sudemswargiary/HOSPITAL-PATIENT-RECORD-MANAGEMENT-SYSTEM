@@ -1,4 +1,4 @@
-# 🏥 Hospital Patient record Management System (C++)
+# 🏥 Hospital Patient Record Management System (C++)
 
 ## 📖 Overview
 This is a simple **Hospital Management System** built using **C++**.  
