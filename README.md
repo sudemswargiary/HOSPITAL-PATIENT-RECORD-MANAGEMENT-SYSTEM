@@ -14,7 +14,7 @@ The program is console-based and demonstrates the use of **arrays**, **loops**, 
    - Stores patient details: name, guardian, age, and disease.  
    - Automatically assigns a room number.
 
-2. 🔍 **Show Patient Details by Number**  
+2. 🔍 **Show Patient Details by Name**  
    - Displays complete details of a patient using their ID (1–5).
 
 3. 📋 **Show All Patients**  
