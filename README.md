@@ -11,11 +11,11 @@ The program is console-based and demonstrates the use of **arrays**, **loops**, 
 ## ⚙️ Features
 
 1. ➕ **Add New Patient**  
-   - Stores patient details: name, guardian, age, and disease.  
+   - Stores patient details: name, guardian, age,contact ,address and disease.  
    - Automatically assigns a room number.
 
 2. 🔍 **Show Patient Details by Name**  
-   - Displays complete details of a patient using their ID (1–5).
+   - Displays complete details of a patient using their name .
 
 3. 📋 **Show All Patients**  
    - Lists all patients currently stored in the system.
