@@ -35,7 +35,7 @@ int main() {
     }
 
     do {
-        cout << "\n===== HOSPITAL MANAGEMENT SYSTEM =====\n";
+        cout << "\n===== HOSPITAL PATIENT RECORD MANAGEMENT SYSTEM =====\n";
         cout << "1. Add New Patient\n";
         cout << "2. Show All Patients\n";
         cout << "3. View Room by Patient Name\n";
@@ -171,3 +171,4 @@ int main() {
 
     return 0;
 }
+
